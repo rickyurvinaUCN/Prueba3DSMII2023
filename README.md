@@ -49,6 +49,7 @@ Abrir el proyecto en el Visual Studio Code o su editor favorito.
 Una vez instalado proceder a lo siguiente en una consola de comandos en la carpeta raíz del proyecto:
 
 ```bash
+    cd prueba3
     npm install
     npx expo start --web
 ```
