@@ -2,7 +2,7 @@
 Para la instalación del proyecto se necesita:
 
 ```bash
-    git clone https://github.com/rickyurvinaUCN/Prueba3DSMII2023/tree/main
+    git clone https://github.com/rickyurvinaUCN/Prueba3DSMII2023
 ```
 # Instalación Backend
 
