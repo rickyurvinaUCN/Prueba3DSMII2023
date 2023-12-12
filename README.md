@@ -7,12 +7,13 @@ Para la instalación del proyecto se necesita:
 # Instalación Backend
 
 **Importante:**
-Abrir el proyecto en el Visual Studio Code o su editor favorito, copiar el _".env.example"_ y pegarlo en el proyecto. O cambiar el nombre de _".env.example"_ a _".env"_. O correr copy .env.example .env en caso de Windows
+Abrir el proyecto en el Visual Studio Code o su editor favorito.
 
 Una vez hecho eso, proceder a abrir la consola y ejecutar los siguientes comandos en orden:
 
 ```bash
     cd backprueba3
+    copy .env.example .env
     composer install
     php artisan key:generate
 ```
